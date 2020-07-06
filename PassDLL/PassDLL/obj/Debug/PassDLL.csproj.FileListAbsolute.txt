@@ -1,0 +1,6 @@
+E:\NiviC#programs\Project\PassDLL\PassDLL\bin\Debug\PassDLL.dll
+E:\NiviC#programs\Project\PassDLL\PassDLL\bin\Debug\PassDLL.pdb
+E:\NiviC#programs\Project\PassDLL\PassDLL\obj\Debug\PassDLL.csproj.CoreCompileInputs.cache
+E:\NiviC#programs\Project\PassDLL\PassDLL\obj\Debug\PassDLL.dll
+E:\NiviC#programs\Project\PassDLL\PassDLL\obj\Debug\PassDLL.pdb
+E:\NiviC#programs\Project\PassDLL\PassDLL\obj\Debug\PassDLL.csprojAssemblyReference.cache
